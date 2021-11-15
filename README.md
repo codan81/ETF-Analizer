@@ -36,7 +36,7 @@ voila (https://voila.readthedocs.io/en/stable/index.html)
 
 Upon launching the application you will be greeted with the following prompts.
 
-![ETF_Analizer_application](W7_SQL_ ETF analizer/ETF-Analizer/Screen Recording 2021-11-14 at 6.38.38 PM.mov)
+![ETF_Analizer_application] (W7_SQL_ ETF analizer/ETF-Analizer/Screen Recording 2021-11-14 at 6.38.38 PM.mov)
 
 
 ## Contributors
