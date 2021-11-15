@@ -35,7 +35,7 @@ voila (https://voila.readthedocs.io/en/stable/index.html)
 ---
 
 Upon launching the application you will be greeted with the following prompts.
-
+https://youtu.be/tbG-qgB9zwY
 ![ETF_Analizer_application](https://youtu.be/tbG-qgB9zwY)
 
 
